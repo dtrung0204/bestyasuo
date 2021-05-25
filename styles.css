@@ -1,0 +1,179 @@
+.top-cloud{
+  position: absolute;
+  right: 350px;
+  top: 80px;
+}
+.call-me{
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  width: 10%;
+  margin: auto;
+}
+.phone{
+  margin: 10px;
+  width: 30px;
+  float: left;
+}
+.phone-number{
+  text-align: left;
+  color: #199292;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 320px;
+  bottom: 380px;
+}
+.profile{
+  width: 50%;
+  line-height: 2;
+  text-align: left;
+  margin: 100px auto 0 auto;
+}
+.teacher{
+  margin-right: 30px;
+  float: left;
+}
+.course{
+  margin-top: 150px;
+  clear: left;
+}
+.welcome{
+  margin-left: 100px;
+}
+.skill-row{
+  width: 50%;
+  margin: 0 auto 0 auto;
+  text-align: left;
+  line-height: 200%;
+}
+.top-container{
+  background-color: #EAF6F6;
+  padding-top: 80px;
+  position: relative;
+}
+.highlight{
+  font-size:140%;
+  color:red;
+}
+.defeat{
+  width: 30%;
+}
+
+.checkmark{
+  width: 35px;
+  float: left;
+}
+.teacher{
+  width: 300px;
+  height: 300px;
+}
+.cay{
+  width: 30%;
+  margin: auto;
+}
+.yasuo-angry{
+  margin: 10px;
+  width: 100px;
+  float:left;
+}
+.teamngu{
+  text-align: left;
+  color: #bb371a;
+}
+.Tom{
+  color:#EAF6F6;
+  font-size: 70%;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  margin: 0;
+  padding: 20px 5px 5px 5px;
+}
+
+.year{
+  text-decoration: underline;
+}
+hr{
+  width: 4%;
+  margin: 100px auto;
+  border-style: dotted;
+  border-bottom: none;
+  border-color: #EAF6F6;
+  border-width: 8px;
+}
+body{
+  text-align: center;
+  margin : 0;
+}
+h1{
+  font-family: 'Sacramento', cursive;
+  font-size: 600%;
+  padding-top: 50px;
+  margin-top: 50px;
+  margin-bottom: 10px;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+h2{
+  font-weight: normal;
+  font-size: 2.5rem;
+  margin-top: 20px;
+  color: #66BFBF;
+  line-height: 2;
+  font-family: 'Farro', sans-serif;
+}
+h3{
+  color: #11999E;
+  font-family: 'Farro', sans-serif;
+}
+h4{
+  position: relative;
+  color: #40514E;
+}
+a{
+  color: #11999E;
+  margin: 10px 20px;
+  text-decoration: none;
+  font-family: 'Padauk', sans-serif;
+}
+a:hover{
+  color: #EAF6F6;
+}
+.contact {
+   margin: 0 0 30px 0;
+   background: #1EE6E8;
+   background-image: -webkit-linear-gradient(top, #1EE6E8, #198DB2);
+   background-image: -moz-linear-gradient(top, #1EE6E8, #198DB2);
+   background-image: -ms-linear-gradient(top, #1EE6E8, #198DB2);
+   background-image: -o-linear-gradient(top, #1EE6E8, #198DB2);
+   background-image: -webkit-gradient(to bottom, #1EE6E8, #198DB2);
+   -webkit-border-radius: 31px;
+   -moz-border-radius: 31px;
+   border-radius: 31px;
+   color: #FFFFFF;
+   font-family: Arial;
+   font-size: 19px;
+   font-weight: 200;
+   padding: 9px;
+   border: solid #337FED 0;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.contact:hover {
+   border: solid #3764E2 1px;
+   background: #2FCDDB;
+   background-image: -webkit-linear-gradient(top, #2FCDDB, #28DCE2);
+   background-image: -moz-linear-gradient(top, #2FCDDB, #28DCE2);
+   background-image: -ms-linear-gradient(top, #2FCDDB, #28DCE2);
+   background-image: -o-linear-gradient(top, #2FCDDB, #28DCE2);
+   background-image: -webkit-gradient(to bottom, #2FCDDB, #28DCE2);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
